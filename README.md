@@ -13,9 +13,6 @@ REQUIREMENTS:
 FULL GUIDE:
 -
 
--How to Create a Bootable macOS USB with Custom EFI
-
-
 -Download the provided EFI file and extract it using 7-Zip.
 
 
