@@ -5,11 +5,17 @@ I always wanted to use macOS, but unfortunately, some Windows apps aren't availa
 
 
 REQUIREMENTS:​
+
 -At least 16GB of RAM (minimum supported is 8GB).
+
 -A USB stick with at least 32GB of storage.
+
 -At least 5GB of SSD space and 1GB free on disk.
+
 -A macOS virtual machine (VMware is recommended — you can get it from their website and follow the setup process).
+
 -A macOS ISO (Mojave 10.13 / Big Sur recommended — download it from the provided link).
+
 -A bit of patience.
 
 WARNING:
