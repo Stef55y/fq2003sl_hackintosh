@@ -16,7 +16,7 @@ FULL GUIDE:
 -Download the provided EFI file and extract it using 7-Zip.
 
 
--Download the macOS RAW image file. [download here the RAW file](https://olarila.com/topic/6278-olarila-vanilla-images-macos-installer/)
+-Download the macOS RAW image file. [download here the RAW file](https://linktr.ee/terminalguy)
 
 
 -Use a tool like Rufus to write the RAW image to a USB stick.
